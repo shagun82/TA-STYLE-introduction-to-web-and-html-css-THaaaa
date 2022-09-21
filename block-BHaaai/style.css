@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(36, 6, 128);
+    color: white;
+}
+a {
+    color: red;
+}
+h2 {
+    color: rgb(27, 141, 80);
+}
+img {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+#unique {
+    text-align: center;
+}
+footer {
+    background-color: rgb(4, 5, 68);
+    padding: 20px;
+    text-align: center;
+}
