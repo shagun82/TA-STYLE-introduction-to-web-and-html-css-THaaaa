@@ -1,0 +1,18 @@
+h1 {
+    color:red;
+    font-size: 64px;
+}
+body{
+    background-color: aqua;
+}
+.awesome {
+    color: chartreuse;
+    font-size: 42px;
+}
+#unique {
+    color: blue;
+}
+p {
+    color: green;
+    font-size: 32px;
+}
